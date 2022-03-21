@@ -1,0 +1,288 @@
+District			Male			Female			Total			Litracy
+
+Agra			2,364,953			2,053,844			4,418,797			80.62%
+
+District			Male			Female			Total			Litracy
+
+Aligarh			1,951,996			1,721,893			3,673,889			77.97%
+
+District			Male			Female			Total			Litracy
+
+Allahabad			3,131,807			2,822,584			5,954,391			82.55%
+
+District			Male			Female			Total			Litracy
+
+Ambedkar Nagar			1,212,410			1,185,478			2,397,888			81.66%
+
+District			Male			Female			Total			Litracy
+
+Auraiya			740,040			639,505			1,379,545			86.11%
+
+District			Male			Female			Total			Litracy
+
+Azamgarh			2,285,004			2,328,909			4,613,913			81.34%
+
+District			Male			Female			Total			Litracy
+
+Baghpat			700,070			602,978			1,303,048			82.45%
+
+District			Male			Female			Total			Litracy
+
+Bahraich			1,843,884			1,643,847			3,487,731			58.34%
+
+District			Male			Female			Total			Litracy
+
+Ballia			1,672,902			1,566,872			3,239,774			81.49%
+
+District			Male			Female			Total			Litracy
+
+Balrampur			1,114,721			1,033,944			2,148,665			59.73%
+
+District			Male			Female			Total			Litracy
+
+Banda			965,876			833,534			1,799,410			77.78%
+
+District			Male			Female			Total			Litracy
+
+Bara Banki			1,707,073			1,553,626			3,260,699			70.27%
+
+District			Male			Female			Total			Litracy
+
+Bareilly			2,357,665			2,090,694			4,448,359			67.50%
+
+District			Male			Female			Total			Litracy
+
+Basti			1,255,272			1,209,192			2,464,464			77.88%
+
+District			Male			Female			Total			Litracy
+
+Bijnor			1,921,215			1,761,498			3,682,713			76.56%
+
+District			Male			Female			Total			Litracy
+
+Budaun			1,967,759			1,714,137			3,681,896			60.98%
+
+District			Male			Female			Total			Litracy
+
+Bulandshahr			1,845,260			1,653,911			3,499,171			80.93%
+
+District			Male			Female			Total			Litracy
+
+Chandauli			1,017,905			934,851			1,952,756			81.72%
+
+District			Male			Female			Total			Litracy
+
+Chitrakoot			527,721			464,009			991,730			75.80%
+
+District			Male			Female			Total			Litracy
+
+Deoria			1,537,436			1,563,510			3,100,946			83.27%
+
+District			Male			Female			Total			Litracy
+
+Etah			947,339			827,141			1,774,480			81.28%
+
+District			Male			Female			Total			Litracy
+
+Etawah			845,856			735,954			1,581,810			86.06%
+
+District			Male			Female			Total			Litracy
+
+Faizabad			1,259,628			1,211,368			2,470,996			78.12%
+
+District			Male			Female			Total			Litracy
+
+Farrukhabad			1,006,240			878,964			1,885,204			77.40%
+
+District			Male			Female			Total			Litracy
+
+Fatehpur			1,384,722			1,248,011			2,632,733			77.19%
+
+District			Male			Female			Total			Litracy
+
+Firozabad			1,332,046			1,166,110			2,498,156			61.75%
+
+District			Male			Female			Total			Litracy
+
+Gautam Buddha Nagar			890,214			757,901			1,648,115			88.06%
+
+District			Male			Female			Total			Litracy
+
+Ghaziabad			2,488,834			2,192,811			4,681,645			85.42%
+
+District			Male			Female			Total			Litracy
+
+Ghazipur			1,855,075			1,765,193			3,620,268			82.80%
+
+District			Male			Female			Total			Litracy
+
+Gonda			1,787,146			1,646,773			3,433,919			69.41%
+
+District			Male			Female			Total			Litracy
+
+Gorakhpur			2,277,777			2,163,118			4,440,895			81.80%
+
+District			Male			Female			Total			Litracy
+
+Hamirpur			593,537			510,748			1,104,285			79.76%
+
+District			Male			Female			Total			Litracy
+
+Hardoi			2,191,442			1,901,403			4,092,845			74.39%
+
+District			Male			Female			Total			Litracy
+
+Jalaun			906,092			783,882			1,689,974			83.48%
+
+District			Male			Female			Total			Litracy
+
+Jaunpur			2,220,465			2,273,739			4,494,204			83.80%
+
+District			Male			Female			Total			Litracy
+
+Jhansi			1,057,436			941,167			1,998,603			85.38%
+
+District			Male			Female			Total			Litracy
+
+Jyotiba Phule Nagar			963,449			876,772			1,840,221			74.54%
+
+District			Male			Female			Total			Litracy
+
+Kannauj			881,776			774,840			1,656,616			80.91%
+
+District			Male			Female			Total			Litracy
+
+Kanpur Dehat			963,255			832,929			1,796,184			83.45%
+
+District			Male			Female			Total			Litracy
+
+Kanpur Nagar			2,459,806			2,121,462			4,581,268			83.62%
+
+District			Male			Female			Total			Litracy
+
+Kanshiram Nagar			764,165			672,554			1,436,719			71.56%
+
+District			Male			Female			Total			Litracy
+
+Kaushambi			838,485			761,111			1,599,596			72.78%
+
+District			Male			Female			Total			Litracy
+
+Kheri			2,123,187			1,898,056			4,021,243			69.57%
+
+District			Male			Female			Total			Litracy
+
+Kushinagar			1,818,055			1,746,489			3,564,544			77.71%
+
+District			Male			Female			Total			Litracy
+
+Lalitpur			641,011			580,581			1,221,592			74.98%
+
+District			Male			Female			Total			Litracy
+
+Lucknow			2,394,476			2,195,362			4,589,838			82.56%
+
+District			Male			Female			Total			Litracy
+
+Mahamaya Nagar			836,127			728,581			1,564,708			82.38%
+
+District			Male			Female			Total			Litracy
+
+Mahoba			466,358			409,600			875,958			75.83%
+
+District			Male			Female			Total			Litracy
+
+Mahrajganj			1,381,754			1,302,949			2,684,703			75.85%
+
+District			Male			Female			Total			Litracy
+
+Mainpuri			993,377			875,152			1,868,529			84.53%
+
+District			Male			Female			Total			Litracy
+
+Mathura			1,367,125			1,180,059			2,547,184			81.97%
+
+District			Male			Female			Total			Litracy
+
+Mau			1,114,709			1,091,259			2,205,968			82.45%
+
+District			Male			Female			Total			Litracy
+
+Meerut			1,825,743			1,617,946			3,443,689			80.74%
+
+District			Male			Female			Total			Litracy
+
+Mirzapur			1,312,302			1,184,668			2,496,970			78.97%
+
+District			Male			Female			Total			Litracy
+
+Moradabad			2,503,186			2,268,820			4,772,006			64.83%
+
+District			Male			Female			Total			Litracy
+
+Muzaffarnagar			2,193,434			1,950,078			4,143,512			78.44%
+
+District			Male			Female			Total			Litracy
+
+Pilibhit			1,072,002			959,005			2,031,007			71.70%
+
+District			Male			Female			Total			Litracy
+
+Pratapgarh			1,606,085			1,603,056			3,209,141			81.88%
+
+District			Male			Female			Total			Litracy
+
+Rae Bareli			1,752,542			1,653,017			3,405,559			77.63%
+
+District			Male			Female			Total			Litracy
+
+Rampur			1,223,889			1,111,930			2,335,819			61.40%
+
+District			Male			Female			Total			Litracy
+
+Saharanpur			1,834,106			1,632,276			3,466,382			78.28%
+
+District			Male			Female			Total			Litracy
+
+Sant Kabir Nagar			869,656			845,527			1,715,183			78.39%
+
+District			Male			Female			Total			Litracy
+
+Sant Ravidas Nagar (Bhadohi)			807,099			771,114			1,578,213			81.47%
+
+District			Male			Female			Total			Litracy
+
+Shahjahanpur			1,606,403			1,400,135			3,006,538			68.18%
+
+District			Male			Female			Total			Litracy
+
+Shrawasti			593,897			523,464			1,117,361			57.16%
+
+District			Male			Female			Total			Litracy
+
+Siddharthnagar			1,295,095			1,264,202			2,559,297			70.92%
+
+District			Male			Female			Total			Litracy
+
+Sitapur			2,375,264			2,108,728			4,483,992			70.31%
+
+District			Male			Female			Total			Litracy
+
+Sonbhadra			971,344			891,215			1,862,559			74.92%
+
+District			Male			Female			Total			Litracy
+
+Sultanpur			1,914,586			1,882,531			3,797,117			80.19%
+
+District			Male			Female			Total			Litracy
+
+Unnao			1,630,087			1,478,280			3,108,367			75.05%
+
+District			Male			Female			Total			Litracy
+
+Varanasi			1,921,857			1,754,984			3,676,841			83.78%
+
+District			Male			Female			Total			Litracy
+
+Uttar Pradesh			104,480,510			95,331,831			199,812,341			77.28%
+
